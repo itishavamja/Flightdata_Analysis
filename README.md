@@ -37,3 +37,6 @@ Evaluated average market fare for short vs. long flights using bar plots.
 Visual Insights
 Confusion Matrix to visualize classification performance.
 Bar Chart comparing average market fare for long vs. short flights.
+
+<img width="801" height="588" alt="image" src="https://github.com/user-attachments/assets/b3e0a668-d1ac-4734-9e95-99fcf0f5d0af" />
+
