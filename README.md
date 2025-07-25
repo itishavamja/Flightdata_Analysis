@@ -22,14 +22,14 @@ Created binary classification label:
 Long_Flight = 1 if MARKET_DISTANCE > 800, else 0
 Selected relevant features for modeling.
 
-3. Model Training
+3.Model Training
 Performed train-test split (80%-20%).
 Scaled numerical features using StandardScaler.
 Applied one-hot encoding on categorical features.
 Used SMOTE to balance the classes in training data.
 Trained a Logistic Regression model (multi_class='ovr', lbfgs solver).
 
-5. Evaluation
+4.Evaluation
 Achieved training and test accuracy scores.
 Visualized results with a confusion matrix.
 Evaluated average market fare for short vs. long flights using bar plots.
